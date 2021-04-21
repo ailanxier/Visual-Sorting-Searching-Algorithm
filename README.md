@@ -8,7 +8,7 @@
 
 &emsp;&emsp;先将整个文件夹下载到本地，下载方法见下图：
 
-![](https://images.cnblogs.com/cnblogs_com/ailanxier/1964648/o_210421053204image_10.png)
+![](https://github.com/ailanxier/Visual-Sorting-Searching-Algorithm/blob/main/download.png)
 
   选择 Download ZIP 即可。解压后，打开“排序和查找算法教学软件.exe”即可使用啦。具体软件使用说明可以点击软件的“帮助”，提供了（简陋的）帮助文档快速入门。如果有用求star。
 
