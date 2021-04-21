@@ -1,4 +1,5 @@
 # Visual-Sorting-Searching-Algorithm
+&emsp;&emsp;一个排序和查找算法可视化教学软件。
 
 ## 开发背景
 
